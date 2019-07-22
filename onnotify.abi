@@ -28,6 +28,13 @@
     ],
     "tables": [
         {
+            "name": "in",
+            "type": "outstruct",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
             "name": "out",
             "type": "outstruct",
             "index_type": "i64",
